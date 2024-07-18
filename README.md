@@ -5,7 +5,7 @@ modified pinball game with java event listeners
 This is a Pinball game developed with custom modifications. The game features changing background colors based on the player's score and dynamic changes to the sticker width as the score increases.
 Here is an image of the project:
 
-![Demo Image](https://drive.google.com/file/d/1HPH3hKddDahUY809yhZZ6yt6WJ1GNR4V/view?usp=drive_link)
+![Alt Text](https://drive.google.com/file/d/1HPH3hKddDahUY809yhZZ6yt6WJ1GNR4V/view?usp=drive_link)
 ## Features
 
 - **Dynamic Background Color**: The background color changes based on the player's score to enhance the gaming experience.
